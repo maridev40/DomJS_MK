@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fetured_item_for_clone {
+    display: none;
+}
+
+.cart_items {
+    display: none;
+}
+
+.cart_item_for_clone {
+    display: none;
+}
+
+.fetured_items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.text {
+    width: 314px;
+}
+
+.add_to_cart {
+    height: 30px;
+}
